@@ -59,4 +59,4 @@
 - **Yuto Shima**
 
 ## 連絡先
-質問や提案がある場合は、[GitHubのリポジトリ](https://github.com/username/trimming)を通じて連絡してください。
+質問や提案がある場合は、[GitHubのリポジトリ](https://github.com/yutoshima/trimming)を通じて連絡してください。
