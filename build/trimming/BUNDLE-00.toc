@@ -1,0 +1,1 @@
+([('trimming', '/Users/yuto/Documents/トリミング/dist/trimming', 'EXECUTABLE')],)
